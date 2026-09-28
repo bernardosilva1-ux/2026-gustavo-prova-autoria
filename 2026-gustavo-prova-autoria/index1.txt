@@ -1,0 +1,9 @@
+<!Doctype HTML>
+<html>
+<head>
+<title> index.html </title>
+</head>
+<body>
+<p style = "font-size:25px;"> O HTML é uma linguagem de marcação importante utilizada na atualidade, saber utiliza-la é muito importante para a informática. </p>
+</body>
+</html>
